@@ -55,8 +55,8 @@ The Daily Expense Tracker is a web-based application designed to help you manage
     - Ensure that the web server has the necessary permissions to read/write to the project directory.
 
 
-![Screenshot 2024-05-10 100902](https://github.com/rutujaC12/Daily-Expense-Tracker/assets/130744778/b7c3ffab-bc62-4ee0-ba3a-fd6af7d5c6dc)
 ![Screenshot 2024-05-10 100851](https://github.com/rutujaC12/Daily-Expense-Tracker/assets/130744778/cdf35add-7a9c-44bc-8cca-1a5149016524)
+![Screenshot 2024-05-10 100902](https://github.com/rutujaC12/Daily-Expense-Tracker/assets/130744778/b7c3ffab-bc62-4ee0-ba3a-fd6af7d5c6dc)
 
 ## Usage
 1. **Access the application**:
