@@ -71,10 +71,7 @@ The Daily Expense Tracker is a web-based application designed to help you manage
 4. **Remove an Expense**:
     - Go to the "Expenses" section, find the expense you want to remove, and click the delete button.
 
-5. **View Total Spend**:
-    - Check the "Total Spend" section to see the summary of your expenses over a specified period.
-
-6. **List All Expenses**:
+5. **List All Expenses**:
     - Navigate to the "Expenses" section to view all recorded expenses.
 
 ## License
