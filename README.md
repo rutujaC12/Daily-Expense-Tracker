@@ -54,8 +54,10 @@ The Daily Expense Tracker is a web-based application designed to help you manage
     - Move the project directory to your web server's root directory (e.g., `/var/www/html/`).
     - Ensure that the web server has the necessary permissions to read/write to the project directory.
   
-    - 
+## Screenshot
 ![Screenshot 2024-04-27 132345](https://github.com/rutujaC12/Daily-Expense-Tracker/assets/130744778/b6c9bfd8-cfe6-4b1b-a96d-4a00e3aabecb)
+
+-
 ![Screenshot 2024-05-10 100902](https://github.com/rutujaC12/Daily-Expense-Tracker/assets/130744778/d5e8962f-4345-4670-9e24-14626fa4476a)
 
 
