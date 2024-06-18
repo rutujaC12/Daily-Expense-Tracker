@@ -23,7 +23,7 @@ The Daily Expense Tracker is a web-based application designed to help you manage
 ### Steps
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/daily-expense-tracker.git
+    git clone https://github.com/rutujaC12/daily-expense-tracker.git
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -33,7 +33,7 @@ The Daily Expense Tracker is a web-based application designed to help you manage
     - Create a database named `dailyexpense`.
     - Import the provided SQL file to set up the necessary tables:
       ```sql
-      source path/to/database.sql;
+      source path/to/dailyexpense.sql;
       ```
 4. **Configure the database connection**:
     - Edit the `config.php` file to include your database credentials:
